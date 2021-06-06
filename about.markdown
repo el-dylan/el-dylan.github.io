@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![bio](/assets/bio.png){:height="500px" width="500px"}
+![bio](/assets/bio.png)
 
 Dylan Elliott is an Atlanta based artist and designer.
 Age : 24
