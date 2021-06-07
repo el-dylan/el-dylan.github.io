@@ -21,10 +21,10 @@
 title: Dylan Elliott
 email: virtualworldluxury@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Created by Dylan Elliott 2021
+  Production and Design 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "www.el-dylan.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+instagram_username: dylanelliott
 github_username:  el-dylan
 
 # Build settings
