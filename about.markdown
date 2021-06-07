@@ -39,6 +39,8 @@ Sept 9, 2016 - Performed @ The Cleaners : It Came From Atlanta!
 
 Feb 18, 2017 - Performed @ The Thing (Rowdy Dowdy) , ATL
 
+May 5, 2017 - Performed @ Casa Nova: Cinco de Mayo
+
 June 9, 2017 - Hello! Garden tape release show @ 368 Ponce 
 
 July 5, 2017 - Performed @ Lava House : Katana Sets (Mammal Gallery ATL)
@@ -57,9 +59,15 @@ Jan 2, 2019 - DJ @ The Bakery Photo Exhibit (ATL)
 
 Jan 21, 2019 - Featured in Lyrical Lemonade [ "Factory" Dylan Elliott x lil heart eyes ]
 
+Mar 4, 2019 - Performed @ Murmur 100 Broad St. (ATL)
+
 April 19, 2019- DJ @ Revery VR Bar : hurr1cane (ATL)
 
 June 11, 2019 - DJ @ 97 Estoria : Amor Fati (ATL)
+
+Aug 2, 2019 - Performed @ Erosion 24hr Noise Show: Murmur (ATL)
+
+Aug 12, 2019 - Featured in NTS : Awful Records - Young Atlanta
 
 Oct 17, 2019 - DJ @ Revery VR Bar : Last Night on Earth (ATL)
 
@@ -78,6 +86,9 @@ Soundcloud:
 
 YouTube:
 [Link](https://www.youtube.com/channel/UCyzfBYdVm6slFN08J5etCpg)
+
+Music:
+[odesli](https://odesli.co/ZHgVcxsrTHD80)
 
 
 [jekyll-organization]: https://github.com/jekyll
