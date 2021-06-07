@@ -77,9 +77,11 @@ Feb 20, 2020 - DJ @ Revery VR Bar : b2b
 
 Jan 25, 2021 - 2 tracks featured in Mainline Zine [ "Top 75 Atlanta Tracks of 2020" ]
 
-Feb 2021 - Featured in Mainline Zine ["February Release Roundup"]
+Feb 2021 - Featured in Mainline Zine ["February Release Roundup"] track: FIL
 
-March 2021 - Featured in Mainline Zine ["March Release Roundup"]
+March 2021 - Featured in Mainline Zine ["March Release Roundup"] Drole EP
+
+May 2021 - Featured in Mainline Zine ["May Release Roundup"] Rad Boy EP
 
 Soundcloud:
 [Soundcloud](https://soundcloud.com/poweredup)
