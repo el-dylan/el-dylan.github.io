@@ -5,7 +5,7 @@
   }
   
   .myGallery img {
-    width: 100%;
+    width: 90%;
   }
 
   .myGallery .item {
@@ -20,7 +20,7 @@
   .myGallery .caption {
     font-family:Arial;
     margin: 0;
-    padding: 1em;
+    padding: 2em;
     position: absolute;
     z-index: 1;
     bottom: 0;
