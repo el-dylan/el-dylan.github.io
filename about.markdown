@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![bio](/assets/bio.png)
+![z1p](/assets/z1p.png)
 
 Dylan Elliott is an Atlanta based artist and designer.
 Age : 24
@@ -30,6 +30,8 @@ Beginning as a producer in 2013, Dylan’s central focus was to create ‘new ge
 [2020: ] Ancient Future Algorithm (19 songs) // VWL: One Atlanta Electronic Selection // DIY POP with Popstar Benny
 
 [2021] F.I.L. Single prod. Glasear , Drôle EP , Rad Boy EP
+
+[2022] Meditations On Entropy
 
 <h2>Achievements</h2>
 
