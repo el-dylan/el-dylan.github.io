@@ -3,18 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-![z1p](/assets/z0p.jpg)
+![prz](/assets/prz1.jpg)
 
 Dylan Elliott is an Atlanta based artist and designer.
-Age : 24
+Age : 26
 
-<h2>Education</h2>
-
-Graduated from Whitewater High School 2015.
-
-BBA : Computer Information Systems @ Georgia State University (Cum Laude) 2020
-
-Current goal : obtain A+ Certification and learn more about coding languages.
 
 <h2>Music Bio</h2>
 Beginning as a producer in 2013, Dylan’s central focus was to create ‘new genres’ of music. 
@@ -32,6 +25,13 @@ Beginning as a producer in 2013, Dylan’s central focus was to create ‘new ge
 [2021] F.I.L. Single prod. Glasear , Drôle EP , Rad Boy EP
 
 [2022] Meditations On Entropy
+
+[Oct 2022] F/W Megamix - New Album 11 Songs
+
+[May 8, 2023] Underground Volumes : New Album
+
+[Sept 17, 2023] Kyle @ Ibiza       *New Single* 
+
 
 <h2>Achievements</h2>
 
@@ -84,6 +84,13 @@ Feb 2021 - Featured in Mainline Zine ["February Release Roundup"] track: FIL
 March 2021 - Featured in Mainline Zine ["March Release Roundup"] Drole EP
 
 May 2021 - Featured in Mainline Zine ["May Release Roundup"] Rad Boy EP
+
+Mar 31 2022 - DJ Set @ Revery Vr Bar with Jagu4r + Popstar Benny
+
+Jan 28, 2023 - DJ Set @ Revery Vr Bar with RossTwoTwo
+
+May 20, 2023 - DJ Set @ Brainworld 1
+
 
 Soundcloud:
 [Soundcloud](https://soundcloud.com/poweredup)
