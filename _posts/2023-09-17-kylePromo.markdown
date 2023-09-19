@@ -10,8 +10,7 @@ categories: visual
 
 Available for purchase on [Bandcamp](https://dylanelliott.bandcamp.com/track/kyle-ibiza)
 <br>
-Streaming right now: [Spotify]() //[Apple Music]() - Coming Soon!
-<br>
+Streaming right now: [Spotify](https://spotify.link/g7aigKvEdDb) //[Apple Music](https://music.apple.com/us/album/kyle-ibiza-single/1707771401) 
 Soundcloud Link - [Soundcloud](https://soundcloud.com/poweredup/dylan-elliott-kyle-ibiza)
 <br>
 Link to All Music: [Music - Dylan Elliott](https://el-dylan.github.io/musiclinks.html)
@@ -25,8 +24,8 @@ Kyle @ Ibiza Song Artwork
 Run Time : 2min 28sec
 <br>
 Mix / Master by Dylan Elliott
-Single - release 2023 
-unrelated to the upcoming project later in 2023.
+Single - VWL Records
+unrelated to the upcoming project later in Q4 2023.
 
 Website: el-dylan.github.io
 Insta : @ dylanelliott
@@ -35,4 +34,4 @@ Insta : @ dylanelliott
 
 <sub><sup>Thank you !
 <br>
-- Dylan Elliott </sup></sub>
+- Dylan Elliott </sup>DM or email to book a Dylan Elliott DJ Set</sub>
