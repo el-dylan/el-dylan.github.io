@@ -60,6 +60,7 @@ Space Royalty, a double LP, stands as Dylan Elliott’s largest single project t
   </tr>
 </table>
 
+Lyrics (Hosted by Genius) - [Click Here ](https://genius.com/albums/Dylan-elliott/Space-royalty)
 <h4>Space Royalty Album Art - Dylan Elliott  </h4>
 ![AA1](/assets/SpaceRoyaltyAAsmall.png){:class="img-responsive"}
 
