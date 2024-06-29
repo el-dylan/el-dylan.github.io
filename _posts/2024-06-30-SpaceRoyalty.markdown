@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Space Royalty: New Album / 30 Songs "
-date:   2024-06-30 04:01:46 -0400
+title:  "Space Royalty: New Album - 30 Songs "
+date:   2024-06-30 10:01:46 -0400
 categories: visual
 ---
+
 <h2>Space Royalty - Dylan Elliott  </h2>
 <sub><sup> The Essential Double LP from Outer Space
 </sup></sub>
@@ -16,7 +17,7 @@ Space Royalty, a double LP, stands as Dylan Elliott’s largest single project t
 
 29 Tracks produced by Dylan Elliott. Track 3 : Produced by Blackytom. All tracks Mixed / Mastered / Written by Dylan Elliott. Special thanks to all my friends and family that have been here with me along the way. This album, written from 2022 - 2024, contains themes such as growing as a person, dealing with personal challenges, and celebrating the beauty of life. Genres: Experimental , Electronic, Space-Pop, Indie-Dance, Trap, House
 
-[Link]()
+[Link](google.com)
 
 
 <br>
