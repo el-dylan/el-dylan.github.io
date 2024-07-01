@@ -10,6 +10,7 @@ categories: visual
 </sub>
 
 [☻ ☻ ☻  Bandcamp Link ☻ ☻ ☻ ](https://dylanelliott.bandcamp.com/album/space-royalty)   _ _  _  _ _        [☮ ☮ ☮ Soundcloud Link ☮ ☮ ☮ ](https://soundcloud.com/poweredup/sets/spaceroyalty) 
+[Spotify - Click Here](https://open.spotify.com/album/062UK8nuBeDepnUWAvUIiX?si=sRpvZUg2TPWMZK9SNSsQBg) _ _ _ [Apple Music - Click Here](https://music.apple.com/us/album/space-royalty/1754956482)
 <p style="text-align: center;">
   <img src="/assets/SpaceRoyaltyAAsmall.png" alt="AA1" class="img-responsive" style="width: 50%;">
 </p>
